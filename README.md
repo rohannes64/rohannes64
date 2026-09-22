@@ -1,6 +1,6 @@
-Rajith Sundar
+Vemuri Rohan
 Software Engineer & AI Specialist
-B.Tech in Computer Science & Engineering (AI & ML), CGPA: 9.06 • Lovely Professional University, Punjab, India
+B.Tech in Computer Science & Engineering (AI & ML), CGPA: 9.34 • Lovely Professional University, Punjab, India
 
 LinkedIn Resume / Portfolio Email GitHub
 
