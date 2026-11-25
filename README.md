@@ -1,6 +1,6 @@
 # Rohan Vemuri
 
-**B.Tech CSE (AI & ML)** &bull; Lovely Professional University &bull; India &bull; started 2024
+**B.Tech CSE (AI & ML)** &bull; Lovely Professional University &bull; India &bull; CGPA 9.34 &bull; started 2024
 
 ```
 $ whoami
@@ -53,3 +53,11 @@ I'm still learning most of these. The list shows what I've actually used, not wh
 ### Problem solving
 
 Practising data structures and algorithms on LeetCode, and starting on Codeforces.
+
+---
+
+### Contact
+
+- LinkedIn: [linkedin.com/in/verohan](https://www.linkedin.com/in/verohan)
+- Email: [krishnavemuri10@gmail.com](mailto:krishnavemuri10@gmail.com)
+- GitHub: [rohannes64](https://github.com/rohannes64)
