@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rohannes64">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=350&speed=25&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=60&lines=%24+whoami;Rohan+Vemuri;AI+%26+ML+Engineering+Student" alt="Rohan Vemuri terminal typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=200&speed=18&multiline=true&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=90&lines=%24+whoami;Rohan+Vemuri" alt="Rohan Vemuri terminal typing animation" />
   </a>
 </p>
 
