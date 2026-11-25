@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://github.com/rohannes64">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=200&speed=18&multiline=true&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=90&lines=%24+whoami;Rohan+Vemuri" alt="Rohan Vemuri terminal typing animation" />
-  </a>
-</p>
+<a href="https://github.com/rohannes64">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&speed=2&multiline=true&color=00FF41&background=0D1117&center=false&vCenter=false&width=600&height=90&lines=%24+whoami;Rohan+Vemuri" alt="Rohan Vemuri terminal typing animation" />
+</a>
 
 **AI & ML Engineering Student** &bull; Lovely Professional University, Punjab, India
 
