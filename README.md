@@ -28,9 +28,11 @@ Frontend & Tools: React, Tailwind CSS, Recharts, Vite, Git, GitHub, Docker, Post
 AI & Systems: Retrieval-Augmented Generation (RAG), LangGraph, ChromaDB, LLM Evaluation, Agent Workflows
 Featured Projects
 Project	Description	Tech Stack
-FinTrack Pro	Full-stack personal finance and banking platform implementing double-entry ledger accounts, ACID transactions, and atomic inter-account fund transfers with optimized PostgreSQL indexing.	Core Java (Java 21), Spring Boot, PostgreSQL, React, Spring Security, Docker
-Vogue Trends	Full-stack e-commerce web application featuring dynamic product catalog browsing, cart operations, dynamic pagination, and personalized recommendations with JWT auth.	React, Node.js, Express.js, MongoDB, REST APIs, Tailwind CSS
-Swift Visa AI	Automated visa policy verification and screening agent with LangGraph workflows and ChromaDB vector retrieval querying official regulations.	Python, LangGraph, ChromaDB, Streamlit, REST APIs
+Grantha Heritage Tracker	Groups unindexed heritage book scans by topic without labels, and checks new pages against those groups. Covers 13k+ books across 8 Indian languages, using multilingual embeddings and clustering.	Python, Vertex AI embeddings, Docker, FastAPI
+FaceLog (DrishtiAttendance AI)	Real-time edge face recognition and attendance system that runs in the browser, using WebGL face embeddings.	Next.js, React, TypeScript, Tailwind CSS
+Deadlock Detection Toolkit	Web toolkit to detect, visualise and recover from OS deadlocks, with resource allocation graphs and Banker's algorithm.	Python, Flask, HTML
+ThemeScope	Research theme discovery web app: topic modelling of research abstracts with non-negative matrix factorisation.	NMF topic modelling, Jupyter Notebook
+
 Certifications
 Oracle Cloud Infrastructure Certified AI Foundations Associate • Oracle University (Jul. 2026)
 Programming in JAVA • NeoColab (iamneo) (May 2026)
