@@ -1,51 +1,55 @@
-Vemuri Rohan
-Software Engineer & AI Specialist
-B.Tech in Computer Science & Engineering (AI & ML), CGPA: 9.34 • Lovely Professional University, Punjab, India
+# Rohan Vemuri
 
-LinkedIn Resume / Portfolio Email GitHub
+**B.Tech CSE (AI & ML)** &bull; Lovely Professional University &bull; India &bull; started 2024
 
-📄 Looking for my complete credentials? View / Download My 1-Page Resume (PDF)
+```
+$ whoami
+undergrad, CS, AI/ML. mostly trying to understand what's under the hood.
 
-Professional Overview
-Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning with a strong focus on enterprise software engineering, robust backend architectures, and applied LLM workflows. Experienced in architecting full-stack financial platforms with Core Java (Java 21) & Spring Boot, building production-style web applications with React, Node.js & PostgreSQL/MongoDB, and engineering agentic retrieval pipelines with LangGraph & ChromaDB.
+$ cat interests.txt
+ml theory · nlp · llm internals · linux · networking · infra
+```
 
-Experience & Internships
-AI Trainer & Team Reviewer • Handshake [Jul. 2026 – Present]
+---
 
-Evaluated 500+ technical function calls and designed complex multi-step reasoning rubrics to stress-test enterprise LLMs, enhancing edge-case detection and model reliability by 30%.
-Reviewed expert-submitted code implementations with a 98% quality acceptance rate across Core Java, Python, and SQL environments.
-Documented 50+ edge cases to streamline review workflows for 20+ engineering reviewers.
-Engineer Intern • Infosys Springboard [Feb. 2026 – Apr. 2026]
+### Direction
 
-Collaborated to engineer Swift Visa, an automated AI screening agent reducing manual policy verification time by 40%.
-Built LangGraph workflows and a ChromaDB vector retrieval pipeline querying official immigration regulations with 95% accuracy.
-Developed an interactive Streamlit interface and integrated REST service endpoints for evaluation across 100+ simulated profiles.
-Technical Skills
-Programming Languages: Core Java (Java 21, OOP, Collections, Multithreading, Streams), SQL, Python, JavaScript, C++
-Backend & Web Services: Spring Boot, Spring Security, Spring Data JPA, Hibernate, Microservices Architecture, RESTful APIs, Node.js, Express.js
-Databases & ORM: PostgreSQL, MySQL, MongoDB, Relational Schema Design, ACID Transactions
-Frontend & Tools: React, Tailwind CSS, Recharts, Vite, Git, GitHub, Docker, Postman, Swagger/OpenAPI
-AI & Systems: Retrieval-Augmented Generation (RAG), LangGraph, ChromaDB, LLM Evaluation, Agent Workflows
-Featured Projects
-Project	Description	Tech Stack
-Grantha Heritage Tracker	Groups unindexed heritage book scans by topic without labels, and checks new pages against those groups. Covers 13k+ books across 8 Indian languages, using multilingual embeddings and clustering.	Python, Vertex AI embeddings, Docker, FastAPI
-FaceLog (DrishtiAttendance AI)	Real-time edge face recognition and attendance system that runs in the browser, using WebGL face embeddings.	Next.js, React, TypeScript, Tailwind CSS
-Deadlock Detection Toolkit	Web toolkit to detect, visualise and recover from OS deadlocks, with resource allocation graphs and Banker's algorithm.	Python, Flask, HTML
-ThemeScope	Research theme discovery web app: topic modelling of research abstracts with non-negative matrix factorisation.	NMF topic modelling, Jupyter Notebook
+I want to end up doing AI research, not just wiring up someone else's API. I'd rather know why an algorithm works than only that it does. I also care about the infrastructure underneath: servers, networks, and deployment.
 
-Certifications
-Oracle Cloud Infrastructure Certified AI Foundations Associate • Oracle University (Jul. 2026)
-Programming in JAVA • NeoColab (iamneo) (May 2026)
-AWS AI Practitioner Challenge • Amazon Web Services (May 2026)
-C2 Proficiency (CAE) • Cambridge English (Nov. 2023)
-Education
-Lovely Professional University • Punjab, India
-Bachelor of Technology in Computer Science & Engineering (AI & ML)
-CGPA: 9.06 / 10 • Aug. 2024 – May 2028
-Co-curricular: Member of Student Research & Innovation Committee (LPU School of CSE)
+No, I don't have a favourite framework. I have a favourite bug.
 
-Addu High School • Hithadhoo, Maldives • Edexcel A Levels (AABB)
+---
 
-S. Feydhoo School • Feydhoo, Maldives • Cambridge IGCSE (7 A-star grades)
+### Currently
 
+- Working through the maths behind ML: optimisation, SVD/PCA, KL divergence, classifiers.
+- Running quantised LLMs locally on a GTX 1050 Ti with llama.cpp.
+- Self-hosting: a personal Ubuntu machine serving apps through Docker and Tailscale.
 
+---
+
+### Projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [Grantha Heritage Tracker](https://github.com/rohannes64/Grantha-Heritage-Tracker) | Groups unlabelled heritage book scans by topic and checks new pages against those groups. 13k+ books in 8 languages. | Python, Vertex AI embeddings, Docker |
+| [ThemeScope](https://github.com/rohannes64/ThemeScope) | Topic modelling of research abstracts with NMF, minimising KL divergence. | Python, NMF, Jupyter |
+| [FaceLog](https://github.com/rohannes64/RoRa-attendance-marker) | Real-time face recognition for attendance, running in the browser. | Next.js, React, TypeScript |
+| [Deadlock Toolkit](https://github.com/rohannes64/deadlock_toolkit) | Detects, visualises, and recovers from OS deadlocks, including Banker's algorithm. | Python, Flask |
+| [Dynamic Contact Tracer](https://github.com/rohannes64/DynamicContact) | Graph-based contact tracing with a Qt GUI. | C++, Qt |
+| Arteffects AI Visualizer | Web app for AI-generated images, with image storage and a Gemini integration. | React, Node.js, Express, MongoDB |
+
+---
+
+### Stack
+
+**Using regularly:** Python, C++, SQL, JavaScript, Git, Linux
+**Learning:** Docker, PostgreSQL, MongoDB, Node.js, React, Qt, Meson
+
+I'm still learning most of these. The list shows what I've actually used, not what I'm good at.
+
+---
+
+### Problem solving
+
+Practising data structures and algorithms on LeetCode, and starting on Codeforces.
