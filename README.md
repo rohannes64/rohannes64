@@ -1,6 +1,4 @@
-<a href="https://github.com/rohannes64">
-<img src="./terminal.svg" alt="$ whoami, Vemuri Rohan" width="600" height="90" />
-</a>
+# Rohan Vemuri
 
 **AI & ML Engineering Student** &bull; Lovely Professional University, Punjab, India
 
