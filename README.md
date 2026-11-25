@@ -1,4 +1,8 @@
-# Rohan Vemuri
+<p align="center">
+  <a href="https://github.com/rohannes64">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=60&lines=%24+whoami;Rohan+Vemuri;AI+%26+ML+Engineering+Student" alt="Rohan Vemuri terminal typing animation" />
+  </a>
+</p>
 
 **AI & ML Engineering Student** &bull; Lovely Professional University, Punjab, India
 
