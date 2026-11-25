@@ -1,5 +1,5 @@
 <a href="https://github.com/rohannes64">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&speed=1&multiline=true&color=00FF41&background=0D1117&center=false&vCenter=false&width=600&height=90&lines=%24+whoami;%24+Vemuri+Rohan" alt="Rohan Vemuri terminal typing animation" />
+<img src="./terminal.svg" alt="$ whoami, Vemuri Rohan" width="600" height="90" />
 </a>
 
 **AI & ML Engineering Student** &bull; Lovely Professional University, Punjab, India
